@@ -1,0 +1,1 @@
+# Arithmiks-technical-django-test
